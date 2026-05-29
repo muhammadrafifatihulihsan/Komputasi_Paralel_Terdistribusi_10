@@ -1,0 +1,2 @@
+# Komputasi_Paralel_Terdistribusi_10
+Komputasi_Paralel_Terdistribusi_10
